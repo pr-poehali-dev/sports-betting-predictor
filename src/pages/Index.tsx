@@ -143,7 +143,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl">
             <Badge className="mb-6 bg-primary/10 text-primary border-primary/20 hover:bg-primary/20">
-              Работаем в Уфе, Стерлитамаке, Салавате, Ишимбае
+              Работаем в Стерлитамаке, Салавате, Ишимбае
             </Badge>
             <h1 className="text-5xl lg:text-7xl font-bold mb-6 leading-tight">
               Дизайн и ремонт квартир, коттеджей и офисов
@@ -420,7 +420,7 @@ const Index = () => {
                 </div>
               </div>
               <p className="text-gray-400 text-sm">
-                Профессиональный ремонт и строительство в Уфе и республике Башкортостан
+                Профессиональный ремонт и строительство в Стерлитамаке, Салавате, Ишимбае
               </p>
             </div>
 
@@ -448,7 +448,7 @@ const Index = () => {
                 </li>
                 <li className="flex items-center gap-2">
                   <Icon name="MapPin" size={16} />
-                  <span>Уфа, Стерлитамак, Салават</span>
+                  <span>Стерлитамак, Салават, Ишимбай</span>
                 </li>
               </ul>
             </div>
